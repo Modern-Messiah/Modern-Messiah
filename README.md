@@ -1,9 +1,17 @@
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+
 </div>
 
 <div align="center">
+
+  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
+
+  
+
 </div>
 
 <br/>
@@ -13,6 +21,7 @@
 ### 👨‍💻 Обо мне
 
 ```javascript
+
 const developer = {
     name: "Владимир",
     location: "Казахстан 🇰🇿",
@@ -27,10 +36,10 @@ const developer = {
     currentFocus: "Веб-приложения и Telegram боты",
     funFact: "Debugging - это искусство! 🎨"
 };
-```
+
+---
 
 <br clear="right"/>
-
 ---
 
 ### 🛠️ Технологии и Инструменты
@@ -91,6 +100,7 @@ const developer = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Modern-Messiah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
+
 
 ---
 
@@ -159,6 +169,7 @@ const developer = {
 
 ---
 
+
 ### 🎲 Dev Quote
 
 <div align="center">
@@ -187,19 +198,4 @@ const developer = {
   
 </div>
 
----
-
-<div align="center">
-
-<!-- 🌌 GitHub Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Modern-Messiah&theme=solarized_dark" alt="GitHub Profile Details" />
-
-<!-- 🔤 Most used languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Modern-Messiah&theme=solarized_dark" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Modern-Messiah&theme=solarized_dark" alt="Repos Per Language" />
-
-<!-- 📊 General stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Modern-Messiah&theme=solarized_dark" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Modern-Messiah&theme=solarized_dark" alt="Productive Time" />
-
-</div>
+<div align="center"> <!-- 🌌 GitHub Profile Summary --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Modern-Messiah&theme=solarized_dark" alt="GitHub Profile Details" /> <!-- 🔤 Most used languages --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Modern-Messiah&theme=solarized_dark" alt="Most Commit Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Modern-Messiah&theme=solarized_dark" alt="Repos Per Language" /> <!-- 📊 General stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Modern-Messiah&theme=solarized_dark" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Modern-Messiah&theme=solarized_dark" alt="Productive Time" /> <!-- 💻 Weekly WakaTime Stats --> <br /> </div>
