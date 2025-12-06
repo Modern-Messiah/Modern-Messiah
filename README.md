@@ -23,53 +23,18 @@
 ```javascript
 
 const developer = {
-
     name: "Владимир",
-
     location: "Казахстан 🇰🇿",
-
     role: "Full Stack Developer & Bot Developer",
-
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-
+    code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
-
-        frontEnd: {
-
-            js: ["React", "Next.js", "Vue"],
-
-            css: ["Tailwind", "Bootstrap", "Material-UI", "Styled Components"]
-
-        },
-
-        backEnd: {
-
-            js: ["Node.js", "Express", "NestJS"],
-
-            python: ["Django", "FastAPI", "Flask"]
-
-        },
-
-        bots: {
-
-            telegram: ["Telegraf", "node-telegram-bot-api", "python-telegram-bot", "aiogram"],
-
-            features: ["Multi-session", "Payment systems", "Admin panels", "Webhooks", "Inline keyboards"]
-
-        },
-
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-
-        devOps: ["Docker", "AWS", "Nginx", "CI/CD"],
-
-        tools: ["Git", "Webpack", "Vite", "Postman"]
-
+        frontEnd: ["React", "Next.js", "Vue", "Tailwind"],
+        backEnd: ["Node.js", "Express", "Django", "FastAPI"],
+        bots: ["Telegraf", "aiogram", "Payment systems"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
-
-    currentFocus: "Создание масштабируемых веб-приложений и сложных Telegram ботов",
-
+    currentFocus: "Веб-приложения и Telegram боты",
     funFact: "Debugging - это искусство! 🎨"
-
 };
 
 ```
