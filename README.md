@@ -1,48 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
-  
-</div>
-
-<br/>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 Обо мне
-
 ```javascript
 const developer = {
     name: "Владимир",
     location: "Казахстан 🇰🇿",
     role: "Full Stack Developer & Bot Developer",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "FastAPI", "Flask"]
-        },
-        bots: {
-            telegram: ["Telegraf", "node-telegram-bot-api", "python-telegram-bot", "aiogram"],
-            features: ["Multi-session", "Payment systems", "Admin panels", "Webhooks", "Inline keyboards"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "AWS", "Nginx", "CI/CD"],
-        tools: ["Git", "Webpack", "Vite", "Postman"]
+        languages: ["JavaScript", "TypeScript", "Python"],
+        frontend: ["React", "Next.js", "Vue", "Tailwind"],
+        backend: ["Node.js", "Express", "Django", "FastAPI"],
+        bots: ["Telegram Bots", "Payment Systems"]
     },
-    currentFocus: "Создание масштабируемых веб-приложений и сложных Telegram ботов",
     funFact: "Debugging - это искусство! 🎨"
 };
-```
-
-<br clear="right"/>
 
 ---
 
