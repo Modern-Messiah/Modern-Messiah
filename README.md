@@ -144,7 +144,7 @@ const developer = {
 
 ---
 
-### 💼 Открыт для предложений
+### 💼 Open to suggestions
 
 - ✅ Разработка веб-приложений (Full Stack)
 - ✅ Telegram боты любой сложности
@@ -181,9 +181,9 @@ const developer = {
 
 <div align="center">
   
-  ### 💡 "Код - это поэзия, а каждый проект - новая история"
+  ### 💡 "Every project is a new story"
   
-  **Давайте создадим что-то потрясающее вместе!** 🚀
+  **Let's create something amazing together!** 🚀
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
   
