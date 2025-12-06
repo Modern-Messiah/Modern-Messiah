@@ -26,7 +26,7 @@ const developer = {
         bots: ["Telegraf", "aiogram", "Payment systems"],
         databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
-    whatIDo: "Development of web applications & intelligent bots",
+    whatIDo: "Development of web app & intelligent bots",
     funFact: "Debugging is like a quest"
 };
 ```
