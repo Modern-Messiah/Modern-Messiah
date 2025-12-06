@@ -37,8 +37,6 @@ const developer = {
     funFact: "Debugging - это искусство! 🎨"
 };
 
-```
-
 <br clear="right"/>
 ---
 
