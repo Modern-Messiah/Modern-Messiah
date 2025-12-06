@@ -26,7 +26,7 @@ const developer = {
         bots: ["Telegraf", "aiogram", "Payment systems"],
         databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
-    whatIDo: "Development of web applications and intelligent bots for Telegram",
+    whatIDo: "Development of web applications and intelligent bots",
     funFact: "Debugging - это искусство! 🎨"
 };
 ```
