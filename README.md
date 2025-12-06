@@ -26,7 +26,7 @@ const developer = {
         bots: ["Telegraf", "aiogram", "Payment systems"],
         databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
-    currentFocus: "Веб-приложения и Telegram боты",
+    currentFocus: "I create web applications and Telegram bots, simplifying life for users",
     funFact: "Debugging - это искусство! 🎨"
 };
 ```
