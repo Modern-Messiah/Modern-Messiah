@@ -35,7 +35,7 @@ const developer = {
 
 ---
 
-### 🛠️ Технологии и Инструменты
+### 🛠️ Technologies and Tools
 
 <div align="center">
 
