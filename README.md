@@ -132,7 +132,7 @@ const developer = {
 
 ---
 
-### 📫 Связаться со мной
+### 📫 Contact details
 
 <div align="center">
 
