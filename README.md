@@ -18,8 +18,8 @@
 
 ```javascript
 const developer = {
-    name: "Владимир",
-    location: "Казахстан 🇰🇿",
+    name: "Vladimir",
+    location: "KZ",
     role: "Full Stack Developer & Bot Developer",
     code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
