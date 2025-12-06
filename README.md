@@ -96,7 +96,7 @@ const developer = {
 
 ---
 
-### 📈 График активности
+### 📈 Activity schedule
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Modern-Messiah&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
