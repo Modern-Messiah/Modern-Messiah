@@ -22,7 +22,7 @@ const developer = {
     code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
         frontEnd: ["React", "Next.js", "Vue", "Tailwind"],
-        backEnd: ["Node.js", "Express", "Django", "FastAPI", "GO"],
+        backEnd: ["Node", "Express", "Django", "FastAPI", "GO"],
         bots: ["Telegraf", "aiogram", "Payment systems"],
         databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
