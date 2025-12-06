@@ -27,7 +27,7 @@ const developer = {
         databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
     whatIDo: "Development of web applications and intelligent bots",
-    funFact: "Debugging - это искусство! 🎨"
+    funFact: "Debugging is like a quest"
 };
 ```
 
