@@ -32,6 +32,9 @@ const developer = {
     funFact: "Debugging — это искусство! 🎨"
 };
 
+<br clear="right"/>
+---
+
 ### 🛠️ Технологии и Инструменты
 
 <div align="center">
