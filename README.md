@@ -56,6 +56,7 @@ const developer = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Telegram Bots & APIs
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
