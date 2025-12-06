@@ -104,30 +104,32 @@ const developer = {
 
 ---
 
-### 🎯 Что я сейчас делаю
+### 🎯 What I am doing now
 
 ```yaml
-🔨 Разработка: 
-  - Современное веб-приложение с микросервисной архитектурой
-  - Высоконагруженные Telegram боты с мультисессиями
+🔨 Development: 
+  - Modern web applications with microservice architecture
+  - High-load bots with multi-session support
   
-📚 Изучаю: 
+📚 Currently Studying:
   - GraphQL, Kubernetes, Microservices
-  - Advanced Telegram Bot API features
-  - Scaling strategies для ботов
+  - Machine Learning (ML)
+  - Scalability & Performance Strategies
   
-💡 Интересы: 
-  - Web3 интеграции
-  - AI/ML в Telegram ботах
+💡 Interests:
+  - Mathematics
+  - Artificial Intelligence / Machine Learning (AI/ML)
   - Cloud Architecture & DevOps
   
-🤖 Специализация в ботах:
-  - Платёжные системы (Stripe, PayPal, ЮKassa)
-  - Сложная логика и state management
-  - Админ-панели и модерация
-  - Интеграция с внешними API
+🤖 Bot Development Expertise:
+  - Payment systems integration (Stripe, PayPal, YooKassa)
+  - Complex logic and state management
+  - Admin panels and moderation tools
+  - Integration with external APIs
   
-🎓 Сертификаты: AWS Solutions Architect, MongoDB Developer
+🏆 Certifications:
+  - AWS Certified Solutions Architect
+  - MongoDB Certified Developer
 ```
 
 ---
@@ -144,20 +146,20 @@ const developer = {
 
 ---
 
-### 💼 Open to suggestions
+### 💼 Open to Opportunities
 
-- ✅ Разработка веб-приложений (Full Stack)
-- ✅ Telegram боты любой сложности
-  - 🤖 Боты с мультисессиями
-  - 💳 Интеграция платёжных систем
-  - 🎯 Admin панели и модерация
-  - 📊 Боты с базами данных
-  - ⚡ Высоконагруженные решения
-  - 🔐 Авторизация и системы доступа
-- ✅ API интеграции и разработка
-- ✅ Консультации по архитектуре
-- ✅ Code Review и оптимизация
-- ✅ Долгосрочные проекты и поддержка
+- ✅ Web Application Development (Full Stack)
+- ✅ Telegram Bots of Any Complexity
+  - 🤖 Multi-session bots
+  - 💳 Payment systems integration
+  - 🎯 Admin panels and moderation tools
+  - 📊 Database-driven bots
+  - ⚡ High-load solutions
+  - 🔐 Authorization & access control
+- ✅ API integration and development
+- ✅ Architecture consulting
+- ✅ Code review and optimization
+- ✅ Long-term projects & maintenance
 
 ---
 
