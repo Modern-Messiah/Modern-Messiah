@@ -6,11 +6,7 @@
 
 <div align="center">
 
-  
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
-
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +17,6 @@
 ### 👨‍💻 Обо мне
 
 ```javascript
-
 const developer = {
     name: "Владимир",
     location: "Казахстан 🇰🇿",
@@ -34,10 +29,9 @@ const developer = {
         databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
     currentFocus: "Веб-приложения и Telegram боты",
-    funFact: "Debugging - это искусство! 🎨"
+    funFact: "Debugging — это искусство! 🎨"
 };
-
----
+};
 
 <br clear="right"/>
 ---
