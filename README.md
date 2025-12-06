@@ -31,10 +31,6 @@ const developer = {
     currentFocus: "Веб-приложения и Telegram боты",
     funFact: "Debugging — это искусство! 🎨"
 };
-};
-
-<br clear="right"/>
----
 
 ### 🛠️ Технологии и Инструменты
 
