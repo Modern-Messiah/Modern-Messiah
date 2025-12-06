@@ -12,12 +12,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About me
 
 ```javascript
 const developer = {
-    name: "Владимир",
-    location: "Казахстан 🇰🇿",
+    name: "Vladimir",
+    location: "KZ",
     role: "Full Stack Developer & Bot Developer",
     code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
