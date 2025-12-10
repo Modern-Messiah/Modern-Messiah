@@ -98,7 +98,10 @@ const developer = {
 ### 📈 Activity schedule
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Modern-Messiah&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Modern-Messiah&show_icons=true&theme=radical" 
+       alt="GitHub Stats" 
+  />
 </div>
 
 ---
