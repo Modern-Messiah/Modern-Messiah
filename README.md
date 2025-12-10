@@ -88,8 +88,8 @@ const developer = {
 
 <div align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Modern-Messiah&show_icons=true&theme=radical" 
-       alt="GitHub Stats" 
+    src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=Modern-Messiah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"
+    alt="GitHub Trophies"
   />
 </div>
 
