@@ -87,7 +87,10 @@ const developer = {
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Modern-Messiah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Modern-Messiah&show_icons=true&theme=radical" 
+       alt="GitHub Stats" 
+  />
 </div>
 
 ---
