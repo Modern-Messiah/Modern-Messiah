@@ -19,8 +19,8 @@ const developer = {
     role: "Full Stack Developer & Bot Developer",
     code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
-        frontEnd: ["React", "Next.js", "Vue", "Tailwind"],
-        backEnd: ["Node", "Express", "Django", "FastAPI", "GO"],
+        frontEnd: ["ReactJS", "Next.js", "Vue", "Tailwind"],
+        backEnd: ["Node", "Express", "Django", "FastAPI", "GO", "Laravel"],
         bots: ["Telegraf", "aiogram", "Payment systems"],
         databases: ["MongoDB", "PostgreSQL", "Redis"]
     },
@@ -55,6 +55,8 @@ const developer = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 #### Telegram Bots & APIs
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
