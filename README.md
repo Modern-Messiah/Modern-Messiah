@@ -20,9 +20,9 @@ const developer = {
     code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
         frontEnd: ["ReactJS", "Next.js", "Vue", "Tailwind"],
-        backEnd: ["Node", "Express", "Django", "FastAPI", "GO", "Laravel"],
+        backEnd: ["Node.js", "Express", "Django", "FastAPI", "GO", "Laravel"],
         bots: ["Telegraf", "aiogram", "Payment systems"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"]
+        databases: ["MongoDB", "PostgreSQL", "Redis", "SQLite"]
     },
     whatIDo: "Development of web app & intelligent bots",
     funFact: "Debugging is like a quest"
