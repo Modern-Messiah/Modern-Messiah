@@ -149,18 +149,18 @@ const developer = {
 
 ### 💼 Open to Opportunities
 
-- ✅ Web Application Development (Full Stack)
-- ✅ Telegram Bots of Any Complexity
-  - 🤖 Multi-session bots
-  - 💳 Payment systems integration
-  - 🎯 Admin panels and moderation tools
-  - 📊 Database-driven bots
-  - ⚡ High-load solutions
-  - 🔐 Authorization & access control
-- ✅ API integration and development
-- ✅ Architecture consulting
-- ✅ Code review and optimization
-- ✅ Long-term projects & maintenance
+- Web Application Development (Full Stack)
+- Telegram Bots of Any Complexity
+- Multi-session bots
+- Payment systems integration
+- Admin panels and moderation tools
+- Database-driven bots
+- High-load solutions
+- Authorization & access control
+- API integration and development
+- Architecture consulting
+- Code review and optimization
+- Long-term projects and maintenance
 
 ---
 
