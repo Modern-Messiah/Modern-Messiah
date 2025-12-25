@@ -108,27 +108,27 @@ const developer = {
 ### 🎯 What I am doing now
 
 ```yaml
-🔨 Development: 
+Development: 
   - Modern web applications with microservice architecture
   - High-load bots with multi-session support
   
-📚 Currently Studying:
+Currently Studying:
   - GraphQL, Kubernetes, Microservices
   - Machine Learning (ML)
   - Scalability & Performance Strategies
   
-💡 Interests:
+Interests:
   - Mathematics
   - Artificial Intelligence / Machine Learning (AI/ML)
   - Cloud Architecture & DevOps
   
-🤖 Bot Development Expertise:
+Bot Development Expertise:
   - Payment systems integration (Stripe, PayPal, YooKassa)
   - Complex logic and state management
   - Admin panels and moderation tools
   - Integration with external APIs
   
-🏆 Certifications:
+Certifications:
   - AWS Certified Solutions Architect
   - MongoDB Certified Developer
 ```
