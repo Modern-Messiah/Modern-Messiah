@@ -14,11 +14,11 @@
 ### 👨‍💻 About me
 
 ```javascript
-const developer = {
-    Hi there! I'm Vladimir 👋
+const Python Backend and AI Engineer  = {
+Hi there! I'm Vladimir 👋
 I bridge the gap between Software Engineering and Data Engineering.
 
-Currently working on: High-load Telegram Bots & RAG Systems
+Currently working on: High-load Telegram Bots and RAG Systems
 Focus: Python ecosystem (FastAPI, Pandas, AI Integration)
 Goal: Building autonomous AI-agents and robust data pipelines.
 };
