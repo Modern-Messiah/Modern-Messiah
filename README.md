@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Python%20Backend%20Developer%20%28AI%20%26%20Web%20Focus%29&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Python%20Backend%20Developer&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
+
 
 
 <div align="center">
