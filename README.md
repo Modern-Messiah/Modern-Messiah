@@ -1,9 +1,9 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+👋;I'm+Python+Backend+Developer+and+AI+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech;Let's+Create+Something+Amazing!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=940&lines=Python+Backend+%26+AI+Engineer;Building+Scalable+Data+Pipelines;Integrating+LLMs+into+Business+Logic;FastAPI+%7C+Pandas+%7C+Docker+%7C+AI;Open+for+new+opportunities" alt="Typing SVG" />
   </a>
 </div>
+
 
 <br/>
 
