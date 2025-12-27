@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Python%20Backend%20Developer%0AAI%20%26%20Web%20Focus&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
-
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+👋;I'm+Python+Backend+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Tech;Let's+Create+Something+Amazing!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+👋;I'm+Python+Backend+Developer+and+AI+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech;Let's+Create+Something+Amazing!" />
   </a>
 </div>
 
