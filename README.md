@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+👋;I'm+Python+Backend+Developer+(AI+&+Web+Focus);Building+Scalable+Web+Apps;Always+Learning+New+Tech;Let's+Create+Something+Amazing!" />
-  </a>
-</div>
-
 <br/>
 
 ### 👨‍💻 About me
