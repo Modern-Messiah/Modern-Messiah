@@ -15,18 +15,12 @@
 
 ```javascript
 const developer = {
-    name: "Vladimir",
-    location: "KZ",
-    role: "Full Stack Developer & Bot Developer",
-    code: ["JavaScript", "TypeScript", "Python"],
-    technologies: {
-        frontEnd: ["ReactJS", "Next.js", "Vue", "Bootstrap"],
-        backEnd: ["Node.js", "Express", "Django", "FastAPI", "Laravel", "Flask"],
-        bots: ["Telegraf", "aiogram", "Payment systems"],
-        databases: ["MongoDB", "PostgreSQL", "Redis", "SQLite"]
-    },
-    whatIDo: "Development of web app & intelligent bots",
-    funFact: "Debugging is like a quest"
+    Hi there! I'm Vladimir 👋
+I bridge the gap between Software Engineering and Data Engineering.
+
+Currently working on: High-load Telegram Bots & RAG Systems
+Focus: Python ecosystem (FastAPI, Pandas, AI Integration)
+Goal: Building autonomous AI-agents and robust data pipelines.
 };
 ```
 
