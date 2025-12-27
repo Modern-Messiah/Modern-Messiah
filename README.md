@@ -118,12 +118,7 @@ Bot Development Expertise:
   - Admin panels and moderation tools
   - Integration with external APIs
   
-Certifications:
-  - AWS Certified Solutions Architect
-  - MongoDB Certified Developer
 ```
-
----
 
 ---
 
@@ -161,16 +156,6 @@ Certifications:
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💡 "Every project is a new story"
-  
-  **Let's create something amazing together!** 🚀
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  
-</div>
 
 ---
 
