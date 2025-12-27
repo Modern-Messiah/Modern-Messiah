@@ -157,8 +157,6 @@ Bot Development Expertise:
 
 ---
 
----
-
 <div align="center">
 
 <!-- 🌌 GitHub Profile Summary -->
