@@ -73,17 +73,6 @@ Goal: Building autonomous AI-agents and robust data pipelines.
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=Modern-Messiah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"
-    alt="GitHub Trophies"
-  />
-</div>
-
----
-
 ### 📈 Activity schedule
 
 <div align="center">
