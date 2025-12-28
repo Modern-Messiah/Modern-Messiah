@@ -77,29 +77,20 @@ const Vladimir = {
 
 ```yaml
 Core Competencies:
-
-  Event-Driven Architecture (FastAPI, Redis, Celery)
-
-  GenAI Integration (RAG, Vector Search, LLM Agents)
-
-  Data Engineering (ETL Pipelines, Pandas)
+  - Event-Driven Architecture (FastAPI, Redis, Celery)
+  - GenAI Integration (RAG, Vector Search, LLM Agents)
+  - Data Engineering (ETL Pipelines, Pandas)
 
 Technical Interests:
-
-  System Design & Scalability
-
-  Large Language Models (Fine-tuning & Inference)
-
-  Cloud Native (Kubernetes, Docker Swarm)
+  - System Design & Scalability
+  - Large Language Models (Fine-tuning & Inference)
+  - Cloud Native (Kubernetes, Docker Swarm)
 
 Domain Knowledge:
+  - FinTech (Payment Integrations)
+  - E-commerce Automation
+  - Conversational AI (Advanced Chatbots)
 
-  FinTech (Payment Integrations)
-
-  E-commerce Automation
-
-  Conversational AI (Advanced Chatbots)
-  
 ```
 
 ---
