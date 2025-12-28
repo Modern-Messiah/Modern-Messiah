@@ -81,28 +81,32 @@ Goal: Building autonomous AI-agents and robust data pipelines.
 
 ---
 
-### 🎯 What I am doing now
+### 🎯 Current Focus & Expertise
 
 ```yaml
-Development: 
-  - Modern web applications with microservice architecture
-  - High-load bots with multi-session support
-  
-Currently Studying:
-  - GraphQL, Kubernetes, Microservices
-  - Machine Learning (ML)
-  - Scalability & Performance Strategies
-  
-Interests:
-  - Mathematics
-  - Artificial Intelligence / Machine Learning (AI/ML)
-  - Cloud Architecture & DevOps
-  
-Bot Development Expertise:
-  - Payment systems integration (Stripe, PayPal, YooKassa)
-  - Complex logic and state management
-  - Admin panels and moderation tools
-  - Integration with external APIs
+Core Competencies:
+
+  Event-Driven Architecture (FastAPI, Redis, Celery)
+
+  GenAI Integration (RAG, Vector Search, LLM Agents)
+
+  Data Engineering (ETL Pipelines, Pandas)
+
+Technical Interests:
+
+  System Design & Scalability
+
+  Large Language Models (Fine-tuning & Inference)
+
+  Cloud Native (Kubernetes, Docker Swarm)
+
+Domain Knowledge:
+
+  FinTech (Payment Integrations)
+
+  E-commerce Automation
+
+  Conversational AI (Advanced Chatbots)
   
 ```
 
