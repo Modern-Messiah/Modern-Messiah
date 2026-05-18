@@ -73,10 +73,14 @@ const Vladimir = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### AI Agents & Agentic Stack
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-F59E0B?style=for-the-badge&logo=data&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-F59E0B?style=for-the-badge&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily-7C3AED?style=for-the-badge&logo=duckduckgo&logoColor=white)
-![Honcho](https://img.shields.io/badge/Honcho-10B981?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-7C3AED?style=for-the-badge&logoColor=white)
+![Honcho](https://img.shields.io/badge/Honcho-10B981?style=for-the-badge&logoColor=white)
 
 </div>
 
