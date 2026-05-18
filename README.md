@@ -72,6 +72,12 @@ const Vladimir = {
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+#### AI Agents & Agentic Stack
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-F59E0B?style=for-the-badge&logo=data&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-7C3AED?style=for-the-badge&logo=duckduckgo&logoColor=white)
+![Honcho](https://img.shields.io/badge/Honcho-10B981?style=for-the-badge&logo=langchain&logoColor=white)
+
 </div>
 
 ---
