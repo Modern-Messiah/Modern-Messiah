@@ -81,6 +81,7 @@ const Vladimir = {
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-7C3AED?style=for-the-badge&logoColor=white)
 ![Honcho](https://img.shields.io/badge/Honcho-10B981?style=for-the-badge&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
 </div>
 
