@@ -83,6 +83,12 @@ const Vladimir = {
 ![Honcho](https://img.shields.io/badge/Honcho-10B981?style=for-the-badge&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
+#### Computer Vision & OCR
+![Tesseract](https://img.shields.io/badge/Tesseract-5CB85C?style=for-the-badge&logo=tesseract&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-7B2CBF?style=for-the-badge&logo=readthedocs&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0099E5?style=for-the-badge&logo=paddlepaddle&logoColor=white)
+
 </div>
 
 ---
