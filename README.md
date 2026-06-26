@@ -82,6 +82,7 @@ const Vladimir = {
 ![Tavily](https://img.shields.io/badge/Tavily-7C3AED?style=for-the-badge&logoColor=white)
 ![Honcho](https://img.shields.io/badge/Honcho-10B981?style=for-the-badge&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Temporal](https://img.shields.io/badge/TEMPORAL-000000?style=for-the-badge&logo=temporal&logoColor=white)
 
 #### Computer Vision & OCR
 ![Tesseract](https://img.shields.io/badge/Tesseract-5CB85C?style=for-the-badge&logo=tesseract&logoColor=white)
