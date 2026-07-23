@@ -7,18 +7,6 @@
 
 <br/>
 
-### 👨‍💻 About me
-
-```javascript
-const Vladimir = {
-  Role: "Python Backend and AI Engineer",
-  Focus: "Bridging the gap between Software and Data Engineering",
-  Current_Work: "High-load Telegram Bots and RAG Systems",
-  Stack: ["FastAPI", "Pandas", "AI Integration"],
-  Goal: "Building autonomous AI-agents and robust data pipelines"
-};
-
-```
 
 <br clear="right"/>
 
